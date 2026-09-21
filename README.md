@@ -1,4 +1,12 @@
-# JungleTrip
-Meu Site sobre uma empresa de turismo
+# Meu Primeiro Site
 
-Este Site é desenvolvido por Enzo Domingues e Heloisa Baracho com a ideia de fazer uma empresa de turismo pra fazerem uma trilha em florestas diversas pelo mundo, tudo com segurança e diversão
+Projeto web desenvolvido durante as aulas práticas de Programação de
+Computadores II
+
+
+
+## Tecnologias
+- HTML5
+- CSS3
+*Acesse o site online:
+https://enzodominguesasd.github.io/JungleTrip/
