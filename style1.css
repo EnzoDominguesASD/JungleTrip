@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4fbdc;
+    color: #707600;
+}
+
+.cabecalho {
+    height: 58px;
+    background-color: #858900;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+}
+
+.logo {
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 15px;
+}
+
+.menu {
+    display: flex;
+    gap: 38px;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+.titulo {
+    font-size: 30px;
+    margin: 12px 10px;
+}
+
+.sobre {
+    min-height: 190px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 8%;
+}
+
+.sobre img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.texto {
+    width: 60%;
+}
+
+.texto h2 {
+    font-size: 25px;
+    font-weight: normal;
+    text-decoration: underline;
+    margin-bottom: 12px;
+}
+
+.texto p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    color: #65682b;
+}
+
+.proposito {
+    min-height: 190px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 8%;
+    background-color: #e8efd2;
+}
+
+.proposito img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.rodape {
+    height: 180px;
+    background-color: #7c8100;
+    border-top: 3px solid #666900;
+    text-align: center;
+    padding-top: 35px;
+    color: white;
+}
+
+.rodape p {
+    font-size: 10px;
+    margin: 5px;
+}
